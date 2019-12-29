@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoSlideshow", "PhotoSlideshow.csproj", "{0C813A6B-DF27-4C8E-9164-C4A287BFE665}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C813A6B-DF27-4C8E-9164-C4A287BFE665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C813A6B-DF27-4C8E-9164-C4A287BFE665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C813A6B-DF27-4C8E-9164-C4A287BFE665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C813A6B-DF27-4C8E-9164-C4A287BFE665}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {945699AD-49BD-4EC7-9FAB-4F155928E035}
+	EndGlobalSection
+EndGlobal
